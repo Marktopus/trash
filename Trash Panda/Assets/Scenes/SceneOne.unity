@@ -14755,6 +14755,16 @@ Prefab:
       propertyPath: player
       value: 
       objectReference: {fileID: 1105655923}
+    - target: {fileID: 114750945902439812, guid: 8de2c5d1bac3fc449ac352dcf26efb58,
+        type: 2}
+      propertyPath: walkSpeed
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114750945902439812, guid: 8de2c5d1bac3fc449ac352dcf26efb58,
+        type: 2}
+      propertyPath: runSpeed
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 8de2c5d1bac3fc449ac352dcf26efb58, type: 2}
   m_IsPrefabParent: 0
